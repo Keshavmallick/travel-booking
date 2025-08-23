@@ -8,20 +8,6 @@ A web application to view and book travel options with user authentication and b
 
 ---
 
-## 📸 Screenshots
-
-**Landing Page / Travel Options**  
-![Landing Page](screenshots/landing.png)
-
-**Booking History**  
-![Booking History](screenshots/bookings.png)
-
-**User Registration / Login**  
-![Login](screenshots/login.png)  
-
-*(Replace these screenshots with your own images in a `screenshots` folder.)*
-
----
 
 ## ⚡ Features
 
